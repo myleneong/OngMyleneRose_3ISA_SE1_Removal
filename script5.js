@@ -1,0 +1,1 @@
+const aveOdd = age => age == 20 && age == 20;
